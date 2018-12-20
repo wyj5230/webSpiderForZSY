@@ -3,16 +3,16 @@
  */
 public class Customer
 {
-    public String userName;
-    public String taoBaoId;
-    public String city;
-    public String district;
-    public String address;
-    public String informationSource;
-    public String emergencyContact;
-    public String beizhu;
-    public String msgOn;
-    public String createdTime;
+    String userName;
+    String taoBaoId;
+    String city;
+    String district;
+    String address;
+    String informationSource;
+    String emergencyContact;
+    String beizhu;
+    String msgOn;
+    String createdTime;
 
     public Customer(String userName, String taoBaoId, String city, String district, String address, String
             informationSource, String emergencyContact, String beizhu, String msgOn, String createdTime)
